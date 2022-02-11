@@ -1,2 +1,3 @@
-# my codeplateau project
-My first codeplateau project
+# CODEPLATEAU
+## My CodePlateau Project
+My first codeplateau website project
